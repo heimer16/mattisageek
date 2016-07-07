@@ -1,6 +1,6 @@
-# Matt is a geek
+# Matt is such a geek
 
-replaces all of Matt Stauffer's tweets with "I am a geek"
+replaces all of Matt Stauffer's tweets with "I am such a geek"
 
 He asked for it!
 
